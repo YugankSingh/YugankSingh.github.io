@@ -13,3 +13,6 @@
 [submodule "record-student-data"]
 	path = record-student-data
 	url = https://github.com/YugankSingh/record-student-data
+[submodule "ping-pong"]
+	path = ping-pong
+	url = https://github.com/YugankSingh/ping-pong
