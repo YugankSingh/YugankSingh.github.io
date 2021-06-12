@@ -1,0 +1,12 @@
+[submodule "photo-galleries"]
+	path = photo-galleries
+	url = https://github.com/YugankSingh/photo-galleries
+[submodule "counter"]
+	path = counter
+	url = https://github.com/YugankSingh/counter
+[submodule "catch-me"]
+	path = catch-me
+	url = https://github.com/YugankSingh/catch-me
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/YugankSingh/calculator
